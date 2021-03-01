@@ -1,0 +1,1770 @@
+<IncidentsResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Incidents>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200109-082556-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001755</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-09T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-09T20:27:11</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="a140324a-f011-4f75-8129-ab3d00edd6c1" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>A 431</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Test</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>$imm0ns</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>72e95990-bd39-4fda-8300-5ec56c48fb17</Id>
+                                            <Value>AFFF Foam</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>6d60ec04-d23a-4cfd-8678-dbafe59b2f7e</Id>
+                                            <Value>Debris/Runoff</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>40ff505b-ed44-4066-bf8e-45a994fff153</Id>
+                                            <Value>Heat</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>81fd8720-8331-4456-b4a2-4494dfce1ed9</Id>
+                                            <Value>Goggles</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>deeff292-265d-40a2-b7b6-f186529048eb</Id>
+                                            <Value>Level A</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>cef0147c-49c5-4ebb-97f7-3606bd3879b7</Id>
+                                            <Value>Firefighting Gloves</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>62b4f926-7d7b-4706-b431-44916e279a12</Id>
+                                            <Value>Wet brush gear with soap</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>83655632-2e3c-49fe-89b4-98fa196ea2fa</Id>
+                                            <Value>Dry brush gear</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200109-104345-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001757</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-09T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-09T22:43:45</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="1bc45057-f2c1-4551-b0e9-ab3d0113b06a" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-055758-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001766</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T17:58:21</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="4e117ab4-ca98-4934-b5fb-ab3e00c5326d" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>A 431</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>764765445</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>PROPERTIES</FirstName>
+                                        <MiddleInitial>K</MiddleInitial>
+                                        <LastName>AUTOMATIONTESTER</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-055859-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001768</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T17:59:10</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="b6db2ca3-b038-48a0-8e75-ab3e00c579f9" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>SandyTest_2</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Samus</FirstName>
+                                        <MiddleInitial>L</MiddleInitial>
+                                        <LastName>Aran</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>1</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>1</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-065855-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001772</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T19:33:38</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="5901cc91-8175-455d-9b98-ab3e00d5fc41" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>A 431</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Test</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>$imm0ns</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="1">
+                                    <PersonnelId>1</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>QM TEST SUBJEC</FirstName>
+                                        <LastName>asd</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="2">
+                                    <PersonnelId>3365874</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>AVAILABLE</FirstName>
+                                        <MiddleInitial>I</MiddleInitial>
+                                        <LastName>BOTH FIRE &amp; EHR</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="3">
+                                    <PersonnelId>123</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>MOIRA</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>BURTON</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="4">
+                                    <PersonnelId>786411799</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>BRIAN</FirstName>
+                                        <MiddleInitial>t</MiddleInitial>
+                                        <LastName>MILLER</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="5">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Samus</FirstName>
+                                        <MiddleInitial>L</MiddleInitial>
+                                        <LastName>Aran</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                        <Apparatus SequenceNumber="1">
+                            <ApparatusName>543</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>786411799</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>BRIAN</FirstName>
+                                        <MiddleInitial>t</MiddleInitial>
+                                        <LastName>MILLER</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>405d9a97-e4f0-46cc-8c6c-154376e36024</Id>
+                                            <Value>None</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>1</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>1</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>6</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-074242-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001773</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T19:43:02</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="9f1f5086-497c-43c3-b40e-ab3e00e1f6b8" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <NFIRSApparatusId>12345</NFIRSApparatusId>
+                            <ApparatusName>Batmobile</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>5698421</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>BARRY</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>ALLEN</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>72e95990-bd39-4fda-8300-5ec56c48fb17</Id>
+                                            <Value>AFFF Foam</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>ddc0e05a-0f81-46ca-8c59-dc150e4390d5</Id>
+                                            <Value>Protein Foam</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>e8a676a2-e3ea-4717-9b30-82d3ff68b009</Id>
+                                            <Value>High Expansion Foam</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>991eb06d-acdd-4ca2-8a7e-f9916032e535</Id>
+                                            <Value>None</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>62b4f926-7d7b-4706-b431-44916e279a12</Id>
+                                            <Value>Wet brush gear with soap</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>c9bcbeab-66f6-493a-96a8-836d2521add4</Id>
+                                            <Value>Used wet wipes</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>85ac7174-5419-4f5a-a62f-ba98d8c8d0f4</Id>
+                                            <Value>Gear bagged, placed in cab</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-082511-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001783</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T20:26:16</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="b4411aad-085d-42b0-84a5-ab3e00eda1f6" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>nemsis3 unit</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>54321</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>JOSEPH</FirstName>
+                                        <LastName>LARA</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>cef0147c-49c5-4ebb-97f7-3606bd3879b7</Id>
+                                            <Value>Firefighting Gloves</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>1fe1d033-5987-45d4-b10b-a0d3576f5598</Id>
+                                            <Value>Mask</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>31442e73-ba05-4646-a0d9-f3dfbb86e172</Id>
+                                            <Value>Coat</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="1">
+                                    <PersonnelId>234234</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>JOSH</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>DASTMALCHI</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>1</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>2</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200110-084738-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001784</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-10T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-10T20:48:11</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="c17318c9-28ec-4f66-9246-ab3e00f3cbda" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>A 431</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>234234</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>JOSH</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>DASTMALCHI</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>353faa15-85a5-4655-b499-2194001f2314</Id>
+                                            <Value>Smoke</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>40ff505b-ed44-4066-bf8e-45a994fff153</Id>
+                                            <Value>Heat</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>7729f48f-41db-4dfc-a50f-cfb1aadb68eb</Id>
+                                            <Value>Fire</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>31442e73-ba05-4646-a0d9-f3dfbb86e172</Id>
+                                            <Value>Coat</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>a67d1c17-0066-4176-96f3-9adb36308596</Id>
+                                            <Value>Boots</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>c9bcbeab-66f6-493a-96a8-836d2521add4</Id>
+                                            <Value>Used wet wipes</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="1">
+                                    <PersonnelId>5698421</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>BARRY</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>ALLEN</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>2</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200113-0942-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001785</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-13T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-13T15:46:42</ModifyDateTimeUtc>
+            <LockedDateTime>2020-01-13T09:46:55.787-06:00</LockedDateTime>
+            <FirstLockDateTime>2020-01-13T09:46:55.787-06:00</FirstLockDateTime>
+            <IsActive>true</IsActive>
+            <IsLocked>true</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="79d1c93b-2309-4afa-afbc-ab4100a119a4" SequenceNumber="0">
+                    <IncidentType EntityName="Dispatched &amp; canceled en route" ListRef="5" BaseCode="611" BaseName="Dispatched &amp; canceled en route">0</IncidentType>
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ShiftName>7a-7p</ShiftName>
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <PSAPDatetime>2020-01-13T09:44:07-06:00</PSAPDatetime>
+                    <AlarmDatetime>2020-01-13T09:44:08-06:00</AlarmDatetime>
+                    <ArrivalDatetime>2020-01-13T09:44:12-06:00</ArrivalDatetime>
+                    <LastUnitClearedDatetime>2020-01-13T09:44:13-06:00</LastUnitClearedDatetime>
+                    <ActionsTaken>
+                        <Action EntityName="Cancelled en route" ListRef="7" BaseCode="93" BaseName="Cancelled en route">0</Action>
+                    </ActionsTaken>
+                    <AidDetails>
+                        <AidGivenOrReceived EntityName="Mutual aid received" ListRef="6" BaseCode="1" BaseName="Mutual aid received">0</AidGivenOrReceived>
+                    </AidDetails>
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                        <LocationType EntityName="Street address" ListRef="1" BaseCode="1" BaseName="Street address">0</LocationType>
+                        <PropertyUse EntityName="Assembly, other" ListRef="11" BaseCode="100" BaseName="Assembly, other">0</PropertyUse>
+                        <AddressDetails>
+                            <NumberOrMilepost>11</NumberOrMilepost>
+                            <StreetOrHighwayName>RESEARCH</StreetOrHighwayName>
+                            <ApartmentNumber>Room 300</ApartmentNumber>
+                            <City>Austin</City>
+                            <State EntityName="Texas" ListRef="4" BaseCode="TX" BaseName="Texas">0</State>
+                            <Zip>78759</Zip>
+                        </AddressDetails>
+                        <County>Travis</County>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>Medic 2 @ ESO</ApparatusName>
+                            <DispatchDatetime>2020-01-13T09:44:09-06:00</DispatchDatetime>
+                            <ArrivalDatetime>2020-01-13T09:44:12-06:00</ArrivalDatetime>
+                            <ClearDatetime>2020-01-13T09:44:13-06:00</ClearDatetime>
+                            <EnRouteDatetime>2020-01-13T09:44:10-06:00</EnRouteDatetime>
+                            <InDistrictDatetime>2020-01-13T09:44:14-06:00</InDistrictDatetime>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <ResponseDelays>
+                                <Delay>None/No Delay</Delay>
+                            </ResponseDelays>
+                            <Priority>Non-Emergent</Priority>
+                            <RespondedFromZone>Austin</RespondedFromZone>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>2</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Rebecca</FirstName>
+                            <MiddleInitial>A</MiddleInitial>
+                            <LastName>Chambers</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>11223344</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200113-040839-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001787</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-13T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-13T16:08:40</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="9a5dc0f5-a740-4888-8414-ab4100a72cd2" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200113-040856-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001788</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-13T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-13T16:08:56</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="3353303d-f9aa-4249-ace7-ab4100a7407e" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200113-040949-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001790</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-13T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-13T16:09:49</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="9e174f76-822d-423d-b453-ab4100a77e79" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200113-041001-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001791</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-13T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-14T16:55:20</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="99d7f319-8a3e-49ea-9a63-ab4100a78bf1" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                    <FireServiceCasualties>
+                        <Casualty SequenceNumber="0">
+                            <InjuredCrewMember xsi:nil="true" />
+                            <DemographicsDetails>
+                                <AgeEstimated>false</AgeEstimated>
+                                <AgeEstimatedInMonths xsi:nil="true" />
+                            </DemographicsDetails>
+                            <InjuryInformationDetails>
+                                <StoryOfInjuryBelowGrade>false</StoryOfInjuryBelowGrade>
+                            </InjuryInformationDetails>
+                        </Casualty>
+                    </FireServiceCasualties>
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200114-051914-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001799</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-14T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-14T17:22:00</ModifyDateTimeUtc>
+            <LockedDateTime>2020-01-14T11:22:00.803-06:00</LockedDateTime>
+            <FirstLockDateTime>2020-01-14T11:22:00.803-06:00</FirstLockDateTime>
+            <IsActive>true</IsActive>
+            <IsLocked>true</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="893ecaf5-85c1-4257-adb7-ab4200ba8f3f" SequenceNumber="0">
+                    <IncidentType EntityName="Dispatched &amp; canceled en route" ListRef="5" BaseCode="611" BaseName="Dispatched &amp; canceled en route">0</IncidentType>
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AlarmDatetime>2020-01-14T11:11:11-06:00</AlarmDatetime>
+                    <LastUnitClearedDatetime>2020-01-14T11:22:22-06:00</LastUnitClearedDatetime>
+                    <ActionsTaken>
+                        <Action EntityName="Cancelled en route" ListRef="7" BaseCode="93" BaseName="Cancelled en route">0</Action>
+                    </ActionsTaken>
+                    <AidDetails>
+                        <AidGivenOrReceived EntityName="Mutual aid received" ListRef="6" BaseCode="1" BaseName="Mutual aid received">0</AidGivenOrReceived>
+                    </AidDetails>
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                        <LocationType EntityName="Street address" ListRef="1" BaseCode="1" BaseName="Street address">0</LocationType>
+                        <AddressDetails>
+                            <StreetOrHighwayName>1</StreetOrHighwayName>
+                            <City>city</City>
+                            <State EntityName="Arizona" ListRef="4" BaseCode="AZ" BaseName="Arizona">0</State>
+                            <Zip>11111</Zip>
+                        </AddressDetails>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>10</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>1</OtherApparatusCount>
+                    <OtherPersonnelCount>1</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>BRIAN</FirstName>
+                            <MiddleInitial>t</MiddleInitial>
+                            <LastName>MILLER</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>786411799</NFIRSPersonnelId>
+                        <Rank>Paramedic</Rank>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200123-075824-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001805</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-23T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-23T20:07:25</ModifyDateTimeUtc>
+            <IsActive>true</IsActive>
+            <IsLocked>false</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="ea32aa60-d577-4688-bf44-ab4b00e64635" SequenceNumber="0">
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>0</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AidDetails />
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <ApparatusName>A 431</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Test</FirstName>
+                                        <MiddleInitial />
+                                        <LastName>$imm0ns</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                        <Apparatus SequenceNumber="1">
+                            <ApparatusName>E1</ApparatusName>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>789456123</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>TIM</FirstName>
+                                        <LastName>IRELAN</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>38110231-e45a-430b-b47e-11ccc122871c</Id>
+                                            <Value>Gases/CO</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>e8a676a2-e3ea-4717-9b30-82d3ff68b009</Id>
+                                            <Value>High Expansion Foam</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn>
+                                        <PPE>
+                                            <Id>a67d1c17-0066-4176-96f3-9adb36308596</Id>
+                                            <Value>Boots</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>31442e73-ba05-4646-a0d9-f3dfbb86e172</Id>
+                                            <Value>Coat</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>e37db5b1-22cb-4317-af3f-94273d265bdb</Id>
+                                            <Value>SCBA</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>5d3ce4f5-fccb-4051-b36a-5012424f2022</Id>
+                                            <Value>Hood</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>0ab6b8cd-d739-4d51-a1be-3e009c603b4a</Id>
+                                            <Value>Pant</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>1fe1d033-5987-45d4-b10b-a0d3576f5598</Id>
+                                            <Value>Mask</Value>
+                                        </PPE>
+                                        <PPE>
+                                            <Id>cef0147c-49c5-4ebb-97f7-3606bd3879b7</Id>
+                                            <Value>Firefighting Gloves</Value>
+                                        </PPE>
+                                    </PpeWorn>
+                                    <DecontaminationProceduresCompleted>
+                                        <DecontaminationProcedure>
+                                            <Id>62b4f926-7d7b-4706-b431-44916e279a12</Id>
+                                            <Value>Wet brush gear with soap</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>c9bcbeab-66f6-493a-96a8-836d2521add4</Id>
+                                            <Value>Used wet wipes</Value>
+                                        </DecontaminationProcedure>
+                                        <DecontaminationProcedure>
+                                            <Id>0bd965d0-2e1f-4266-8a83-5222fd734532</Id>
+                                            <Value>Gear bagged, placed outside of cab</Value>
+                                        </DecontaminationProcedure>
+                                    </DecontaminationProceduresCompleted>
+                                    <PpeMalfunction>true</PpeMalfunction>
+                                    <BarrierBreach>false</BarrierBreach>
+                                    <BlackSootAroundNose>false</BlackSootAroundNose>
+                                    <BlackSootAroundMouth>false</BlackSootAroundMouth>
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>1</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>1</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200123-FIREFOXI&amp;E-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001808</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-23T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-23T21:34:30</ModifyDateTimeUtc>
+            <LockedDateTime>2020-01-23T15:34:30.587-06:00</LockedDateTime>
+            <FirstLockDateTime>2020-01-23T15:29:52.08-06:00</FirstLockDateTime>
+            <IsActive>true</IsActive>
+            <IsLocked>true</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="53b01314-09c7-4475-8ed4-ab4b00fe41a6" SequenceNumber="0">
+                    <IncidentType EntityName="Incinerator overload or malfunction, fire confined" ListRef="5" BaseCode="115" BaseName="Incinerator overload or malfunction, fire confined">0</IncidentType>
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>1</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AlarmDatetime>2020-01-23T06:00:00-06:00</AlarmDatetime>
+                    <ArrivalDatetime>2020-01-23T06:09:00-06:00</ArrivalDatetime>
+                    <LastUnitClearedDatetime>2020-01-23T08:00:00-06:00</LastUnitClearedDatetime>
+                    <ActionsTaken>
+                        <Action EntityName="Fire control or extinguishment, other" ListRef="7" BaseCode="10" BaseName="Fire control or extinguishment, other">0</Action>
+                    </ActionsTaken>
+                    <AidDetails>
+                        <AidGivenOrReceived EntityName="None" ListRef="6" BaseCode="N" BaseName="None">0</AidGivenOrReceived>
+                    </AidDetails>
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                        <LocationType EntityName="Street address" ListRef="1" BaseCode="1" BaseName="Street address">0</LocationType>
+                        <PropertyUse EntityName="1 or 2 family dwelling" ListRef="11" BaseCode="419" BaseName="1 or 2 family dwelling">0</PropertyUse>
+                        <DetectorAlertedOccupants EntityName="Unknown" ListRef="8" BaseCode="U" BaseName="Unknown">0</DetectorAlertedOccupants>
+                        <AddressDetails>
+                            <NumberOrMilepost>1234</NumberOrMilepost>
+                            <StreetPrefix EntityName="North" ListRef="2" BaseCode="N" BaseName="North">0</StreetPrefix>
+                            <StreetOrHighwayName>Firefox I&amp;E Test Incident</StreetOrHighwayName>
+                            <StreetType EntityName="Road" ListRef="3" BaseCode="RD" BaseName="Road">0</StreetType>
+                            <City>Austin</City>
+                            <State EntityName="Texas" ListRef="4" BaseCode="TX" BaseName="Texas">0</State>
+                            <Zip>78722</Zip>
+                        </AddressDetails>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLossIsNone>true</PropertyLossIsNone>
+                    <ContentsLossIsNone>true</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <NFIRSApparatusId>12345</NFIRSApparatusId>
+                            <ApparatusName>Batmobile</ApparatusName>
+                            <DispatchDatetime>2020-01-23T06:00:00-06:00</DispatchDatetime>
+                            <ArrivalDatetime>2020-01-23T06:09:00-06:00</ArrivalDatetime>
+                            <ClearDatetime>2020-01-23T08:00:00-06:00</ClearDatetime>
+                            <EnRouteDatetime>2020-01-23T06:02:00-06:00</EnRouteDatetime>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="1">
+                                    <PersonnelId>123456789</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Samus</FirstName>
+                                        <MiddleInitial>L</MiddleInitial>
+                                        <LastName>Aran</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>242facf2-3ed4-4856-91b1-e8c178243513</Id>
+                                            <Value>None</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                                <IncidentApparatusPersonnel SequenceNumber="2">
+                                    <PersonnelId>11223344</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>Rebecca</FirstName>
+                                        <MiddleInitial>A</MiddleInitial>
+                                        <LastName>Chambers</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo />
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>2</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>4</SuppressionPersonnelCount>
+                    <EmsApparatusCount>0</EmsApparatusCount>
+                    <EmsPersonnelCount>0</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>JOSEPH</FirstName>
+                            <LastName>LARA</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>54321</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                    <FireServiceCasualties>
+                        <Casualty SequenceNumber="0">
+                            <InjuredCrewMember>bed115e1-0783-e911-81f1-000d3a712a3f</InjuredCrewMember>
+                            <IdentificationNumber>123456789</IdentificationNumber>
+                            <NameDetails>
+                                <FirstName>Samus</FirstName>
+                                <MiddleInitial>L</MiddleInitial>
+                                <LastName>Aran</LastName>
+                            </NameDetails>
+                            <DemographicsDetails>
+                                <DateOfBirth>1986-08-06T00:00:00</DateOfBirth>
+                                <AgeEstimated>false</AgeEstimated>
+                                <AgeEstimatedInMonths xsi:nil="true" />
+                                <Sex EntityName="Female" ListRef="23" BaseCode="2" BaseName="Female">0</Sex>
+                            </DemographicsDetails>
+                            <InjuryInformationDetails>
+                                <InjuryDatetime>2020-01-23T07:05:00-06:00</InjuryDatetime>
+                                <Severity EntityName="Treated by physician, not a lost-time injury" ListRef="63" BaseCode="3" BaseName="Treated by physician, not a lost-time injury">0</Severity>
+                                <CauseOfFirefighterInjury EntityName="Exposure to hazard" ListRef="67" BaseCode="4" BaseName="Exposure to hazard">0</CauseOfFirefighterInjury>
+                                <PrimaryApparentSymptom EntityName="Swelling" ListRef="57" BaseCode="34" BaseName="Swelling">0</PrimaryApparentSymptom>
+                                <StoryOfInjuryBelowGrade>false</StoryOfInjuryBelowGrade>
+                            </InjuryInformationDetails>
+                        </Casualty>
+                    </FireServiceCasualties>
+                </Exposure>
+            </Exposures>
+        </Incident>
+        <Incident>
+            <CanonicalVersion>3.0.6</CanonicalVersion>
+            <IncidentNumber>200124-045007-ESO</IncidentNumber>
+            <NFIRSIncidentNumber>0001810</NFIRSIncidentNumber>
+            <IncidentDate>2020-01-24T00:00:00-06:00</IncidentDate>
+            <ModifyDateTimeUtc>2020-01-24T20:48:53</ModifyDateTimeUtc>
+            <LockedDateTime>2020-01-24T14:48:53.84-06:00</LockedDateTime>
+            <FirstLockDateTime>2020-01-24T10:58:43.303-06:00</FirstLockDateTime>
+            <IsActive>true</IsActive>
+            <IsLocked>true</IsLocked>
+            <CADDetails />
+            <Exposures>
+                <Exposure ExposureId="10783bf3-8070-4487-b2f5-ab4c00b29059" SequenceNumber="0">
+                    <IncidentType EntityName="fire building" ListRef="5" BaseCode="111" BaseName="Building fire">0</IncidentType>
+                    <CriticalIncident xsi:nil="true" />
+                    <CriticalIncidentTeamMobilized xsi:nil="true" />
+                    <ResourceFormUsed>false</ResourceFormUsed>
+                    <FireServiceDeaths>0</FireServiceDeaths>
+                    <OtherDeaths>0</OtherDeaths>
+                    <FireServiceInjuries>1</FireServiceInjuries>
+                    <OtherInjuries>0</OtherInjuries>
+                    <AlarmDatetime>2020-01-24T01:01:01-06:00</AlarmDatetime>
+                    <ArrivalDatetime>2020-01-24T01:01:03-06:00</ArrivalDatetime>
+                    <LastUnitClearedDatetime>2020-01-24T01:01:05-06:00</LastUnitClearedDatetime>
+                    <ActionsTaken>
+                        <Action EntityName="Extinguishment by fire service personnel" ListRef="7" BaseCode="11" BaseName="Extinguishment by fire service personnel">0</Action>
+                    </ActionsTaken>
+                    <AidDetails>
+                        <AidGivenOrReceived EntityName="None" ListRef="6" BaseCode="N" BaseName="None">0</AidGivenOrReceived>
+                    </AidDetails>
+                    <LocationDetails>
+                        <AddressOnWildland>false</AddressOnWildland>
+                        <LocationType EntityName="Street address" ListRef="1" BaseCode="1" BaseName="Street address">0</LocationType>
+                        <PropertyUse EntityName="Laundry, dry cleaning" ListRef="11" BaseCode="564" BaseName="Laundry, dry cleaning">0</PropertyUse>
+                        <AddressDetails>
+                            <NumberOrMilepost>11500</NumberOrMilepost>
+                            <StreetOrHighwayName>alterra</StreetOrHighwayName>
+                            <StreetType EntityName="Parkway" ListRef="3" BaseCode="PKY" BaseName="Parkway">0</StreetType>
+                            <City>austin</City>
+                            <State EntityName="Texas" ListRef="4" BaseCode="TX" BaseName="Texas">0</State>
+                            <Zip>78758</Zip>
+                        </AddressDetails>
+                    </LocationDetails>
+                    <OwnerDetails SequenceNumber="0">
+                        <AddressSameAsIncident>false</AddressSameAsIncident>
+                    </OwnerDetails>
+                    <OwnerInvolvedInIncident>false</OwnerInvolvedInIncident>
+                    <PropertyLoss>0</PropertyLoss>
+                    <ContentsLoss>0</ContentsLoss>
+                    <PropertyLossIsNone>false</PropertyLossIsNone>
+                    <ContentsLossIsNone>false</ContentsLossIsNone>
+                    <PropertyValueIsNone>false</PropertyValueIsNone>
+                    <ContentsValueIsNone>false</ContentsValueIsNone>
+                    <ApparatusesAndPersonnel>
+                        <Apparatus SequenceNumber="0">
+                            <NFIRSApparatusId>12345</NFIRSApparatusId>
+                            <ApparatusName>Batmobile</ApparatusName>
+                            <DispatchDatetime>2020-01-24T01:01:01-06:00</DispatchDatetime>
+                            <ArrivalDatetime>2020-01-24T01:01:03-06:00</ArrivalDatetime>
+                            <ClearDatetime>2020-01-24T01:01:05-06:00</ClearDatetime>
+                            <EnRouteDatetime>2020-01-24T01:01:02-06:00</EnRouteDatetime>
+                            <IsCancelledPriorToArrival xsi:nil="true" />
+                            <Personnel>
+                                <IncidentApparatusPersonnel SequenceNumber="0">
+                                    <PersonnelId>123</PersonnelId>
+                                    <NameDetails>
+                                        <FirstName>ALAN</FirstName>
+                                        <MiddleInitial>O</MiddleInitial>
+                                        <LastName>BRADLEY</LastName>
+                                    </NameDetails>
+                                    <FireProductsExposedTo>
+                                        <FireProduct>
+                                            <Id>353faa15-85a5-4655-b499-2194001f2314</Id>
+                                            <Value>Smoke</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>40ff505b-ed44-4066-bf8e-45a994fff153</Id>
+                                            <Value>Heat</Value>
+                                        </FireProduct>
+                                        <FireProduct>
+                                            <Id>7729f48f-41db-4dfc-a50f-cfb1aadb68eb</Id>
+                                            <Value>Fire</Value>
+                                        </FireProduct>
+                                    </FireProductsExposedTo>
+                                    <PpeWorn />
+                                    <DecontaminationProceduresCompleted />
+                                    <PpeMalfunction xsi:nil="true" />
+                                    <BarrierBreach xsi:nil="true" />
+                                    <BlackSootAroundNose xsi:nil="true" />
+                                    <BlackSootAroundMouth xsi:nil="true" />
+                                    <PatientContact xsi:nil="true" />
+                                    <MedicalPpeWorn />
+                                </IncidentApparatusPersonnel>
+                            </Personnel>
+                            <IsAidingAgencyUnit>false</IsAidingAgencyUnit>
+                        </Apparatus>
+                    </ApparatusesAndPersonnel>
+                    <SuppressionApparatusCount>0</SuppressionApparatusCount>
+                    <SuppressionPersonnelCount>0</SuppressionPersonnelCount>
+                    <EmsApparatusCount>1</EmsApparatusCount>
+                    <EmsPersonnelCount>1</EmsPersonnelCount>
+                    <OtherApparatusCount>0</OtherApparatusCount>
+                    <OtherPersonnelCount>0</OtherPersonnelCount>
+                    <ResourcesIncludeMutualAid>false</ResourcesIncludeMutualAid>
+                    <ReportWriterDetails>
+                        <NameDetails>
+                            <FirstName>Administrator</FirstName>
+                            <MiddleInitial />
+                            <LastName>ESO</LastName>
+                        </NameDetails>
+                        <NFIRSPersonnelId>122233344</NFIRSPersonnelId>
+                    </ReportWriterDetails>
+                    <OfficerInChargeDetails />
+                    <FireDetails>
+                        <LessThanOneAcre>false</LessThanOneAcre>
+                        <NotResidential>false</NotResidential>
+                        <BuildingsInvolvedIsNone>false</BuildingsInvolvedIsNone>
+                        <OnSiteMaterials>
+                            <OnSiteMaterialPair>
+                                <Material EntityName="On-site materials, other" ListRef="14" BaseCode="000" BaseName="On-site materials, other">0</Material>
+                                <StorageUse EntityName="Bulk storage or warehousing" ListRef="15" BaseCode="1" BaseName="Bulk storage or warehousing">0</StorageUse>
+                            </OnSiteMaterialPair>
+                        </OnSiteMaterials>
+                        <IgnitionDetails>
+                            <AreaOfOrigin EntityName="Other area of fire origin" ListRef="16" BaseCode="00" BaseName="Other area of fire origin">0</AreaOfOrigin>
+                            <HeatSource EntityName="Hot or smoldering object, other" ListRef="17" BaseCode="40" BaseName="Hot or smoldering object, other">0</HeatSource>
+                            <ItemFirstIgnited EntityName="Item first ignited, other" ListRef="18" BaseCode="00" BaseName="Item first ignited, other">0</ItemFirstIgnited>
+                            <ConfinedToOrigin>true</ConfinedToOrigin>
+                            <TypeOfMaterial EntityName="Type of material first ignited, other" ListRef="19" BaseCode="00" BaseName="Type of material first ignited, other">0</TypeOfMaterial>
+                            <CauseOfIgnition EntityName="Unintentional" ListRef="20" BaseCode="2" BaseName="Unintentional">0</CauseOfIgnition>
+                            <FactorsContributingToIgnition>
+                                <Factor EntityName="Factors contributing to ignition, other" ListRef="21" BaseCode="00" BaseName="Factors contributing to ignition, other">0</Factor>
+                            </FactorsContributingToIgnition>
+                            <HumanFactorsContributing>
+                                <Factor EntityName="Asleep" ListRef="22" BaseCode="1" BaseName="Asleep">0</Factor>
+                            </HumanFactorsContributing>
+                        </IgnitionDetails>
+                        <EquipmentDetails />
+                        <MobilePropertyDetails>
+                            <CarStolen xsi:nil="true" />
+                        </MobilePropertyDetails>
+                        <StructureDetails>
+                            <StructureType EntityName="fixed" ListRef="31" BaseCode="2" BaseName="Fixed portable or mobile structure">0</StructureType>
+                            <BuildingStoriesAboveGrade>1</BuildingStoriesAboveGrade>
+                            <BuildingStoriesBelowGrade>0</BuildingStoriesBelowGrade>
+                            <BuildingStatus EntityName="In normal use" ListRef="32" BaseCode="2" BaseName="In normal use">0</BuildingStatus>
+                            <MainFloorLength>1</MainFloorLength>
+                            <MainFloorWidth>1</MainFloorWidth>
+                            <MainFloorSquareFootage>1</MainFloorSquareFootage>
+                            <StoryOfFireOrigin>0</StoryOfFireOrigin>
+                            <ConfinedToOrigin>true</ConfinedToOrigin>
+                            <NoFlameSpreadOrSameAsFirstOrUnknown>false</NoFlameSpreadOrSameAsFirstOrUnknown>
+                        </StructureDetails>
+                        <ProtectiveSystemsDetails>
+                            <DetectorPresence EntityName="None present" ListRef="36" BaseCode="N" BaseName="None present">0</DetectorPresence>
+                            <AesPresence EntityName="Undetermined" ListRef="42" BaseCode="U" BaseName="Undetermined">0</AesPresence>
+                        </ProtectiveSystemsDetails>
+                    </FireDetails>
+                    <FireServiceCasualties>
+                        <Casualty SequenceNumber="0">
+                            <InjuredCrewMember>4f0391b8-b6f1-e911-81ff-000d3a712a3f</InjuredCrewMember>
+                            <IdentificationNumber>123</IdentificationNumber>
+                            <NameDetails>
+                                <FirstName>ALAN</FirstName>
+                                <MiddleInitial>O</MiddleInitial>
+                                <LastName>BRADLEY</LastName>
+                            </NameDetails>
+                            <DemographicsDetails>
+                                <DateOfBirth>1960-01-01T00:00:00</DateOfBirth>
+                                <AgeEstimated>false</AgeEstimated>
+                                <AgeEstimatedInMonths xsi:nil="true" />
+                                <Sex EntityName="Male" ListRef="23" BaseCode="1" BaseName="Male">0</Sex>
+                            </DemographicsDetails>
+                            <InjuryInformationDetails>
+                                <InjuryDatetime>2020-01-24T01:01:04-06:00</InjuryDatetime>
+                                <Severity EntityName="Report only, including exposure" ListRef="63" BaseCode="1" BaseName="Report only, including exposure">0</Severity>
+                                <CauseOfFirefighterInjury EntityName="Exposure to hazard" ListRef="67" BaseCode="4" BaseName="Exposure to hazard">0</CauseOfFirefighterInjury>
+                                <PrimaryApparentSymptom EntityName="Smoke inhalation" ListRef="57" BaseCode="01" BaseName="Smoke inhalation">0</PrimaryApparentSymptom>
+                                <StoryOfInjuryBelowGrade>false</StoryOfInjuryBelowGrade>
+                            </InjuryInformationDetails>
+                        </Casualty>
+                    </FireServiceCasualties>
+                </Exposure>
+            </Exposures>
+        </Incident>
+    </Incidents>
+    <LastIncidentDate>2020-01-24T20:48:53</LastIncidentDate>
+</IncidentsResults>

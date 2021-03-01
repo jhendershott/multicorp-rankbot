@@ -17,6 +17,11 @@ using DSharpPlus.Interactivity.Extensions;
 using multicorp_bot.Controllers;
 using multicorp_bot.Helpers;
 using multicorp_bot.POCO;
+using System.IO;
+using System.Net;
+using System.Text;
+using Newtonsoft.Json;
+using multicorp_bot.Models;
 
 namespace multicorp_bot
 {
@@ -1211,6 +1216,29 @@ namespace multicorp_bot
 
                 TelemetryHelper.Singleton.LogEvent("BOT COMMAND", "wipe-bank-success", ctx);
                 await ctx.RespondAsync("your org balance and transactions have been set to 0. All Loans have been completed");
+            }
+        }
+
+        [Command("attach")]
+        public async Task ProcessFleet(CommandContext ctx)
+        {
+            try
+            {
+                Console.WriteLine("We just fuckin with attachments");
+                var client = new WebClient();
+                var content = client.DownloadData(ctx.Message.Attachments[0].Url);
+
+                var bytesAsString = Encoding.UTF8.GetString(content);
+                var fleetImport = FleetImport.FromJson(bytesAsString);
+
+                FleetController fC = new FleetController();
+                var test = fC.GetLoanerFleet(fleetImport);
+
+ 
+                Console.WriteLine(fleetImport);
+            } catch( Exception e)
+            {
+                Console.WriteLine(e);
             }
         }
 

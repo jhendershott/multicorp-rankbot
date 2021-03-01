@@ -21,5 +21,11 @@ namespace multicorp_bot.Helpers
 
            return newMsg;
         }
+
+        public static string CostString(int credits)
+        {
+            string yourValue = ((double)credits / 100).ToString("C");
+            return $"{yourValue} USD";
+        }
     }
 }
